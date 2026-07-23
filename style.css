@@ -28,4 +28,27 @@ section{
   max-width: whidth:800px;
   background:white;
   border-radius: 8px;
-  
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h2{
+  color: #4CAF50;
+}
+
+.project{
+  margin-botton:20px;
+  color: #333;
+}
+
+ul{
+  list-style-type: square;
+  padding-left:20px;
+}
+
+footer{
+  text-align:center;
+  padding:10px 0;
+  background: #333;
+  color:white;
+  margin-top:20px
+}
